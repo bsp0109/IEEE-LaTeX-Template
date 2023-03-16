@@ -1,2 +1,2 @@
-./conference.aux
-./conference.log
+*.aux
+*.log
