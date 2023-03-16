@@ -1,4 +1,4 @@
-# IEEE \{LaTeX} template + Makefile to easily write and compile IEEE papers.
+# IEEE $\{LaTeX}$ template + Makefile to easily write and compile IEEE papers.
 
 ## Details
 This template is based on IEEE's [template](https://www.ieee.org/conferences/publishing/templates.html)
